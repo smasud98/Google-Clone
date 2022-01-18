@@ -6,7 +6,8 @@ The goal of this project was to follow a tutorial (https://www.youtube.com/watch
 
 ## Project Demo
 
-To view this project, navigate to the following link: https://clone-455f7.web.app
+To view this project, navigate to the following link: https://clone-455f7.web.app. 
+NOTE: If page does not load properly upon searching, refresh the search page and retry
 
 # Getting Started with Create React App
 
