@@ -1,7 +1,6 @@
 ## Project Description
 
 This project is a Google Clone made using the following tools: JavaScript, ReactJS, Firebase, Material UI, Google API.
-The goal of this project was to follow a tutorial (https://www.youtube.com/watch?v=DAWWf7q8sqM) to clone a real-life aplication in order to practice web development skills using React JS and third-party APIs.
 
 
 ## Project Demo
